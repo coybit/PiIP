@@ -7,8 +7,6 @@ PiIP solve this problem. After installing it, it would send the Raspberry Pi IP 
 
 How to use:
 
-a script that send your Raspberry Pi IP once it boots
-
 1- Create an account on Mailgun:
 https://www.mailgun.com/
 
